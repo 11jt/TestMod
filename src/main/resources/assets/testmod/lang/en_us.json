@@ -1,0 +1,9 @@
+{
+  "item.testmod.sapphire": "Sapphire",
+  "item.testmod.raw_sapphire": "Raw Sapphire",
+
+  "block.testmod.sapphire_block": "Block of Sapphire",
+
+  "creativetab.test_tab": "Sapphire Test Tab"
+
+}
