@@ -2,6 +2,10 @@
   "item.testmod.sapphire": "Sapphire",
   "item.testmod.raw_sapphire": "Raw Sapphire",
 
+  "item.testmod.metal_detector": "Metal Detector",
+
+  "item.testmod.hyperion": "Hyperion",
+
   "block.testmod.sapphire_block": "Block of Sapphire",
 
   "creativetab.test_tab": "Sapphire Test Tab"
